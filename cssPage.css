@@ -1,0 +1,179 @@
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    z-index: 1000;
+}
+.page_name{
+    color: white;
+    font-family: inherit;
+    width: fit-content;
+    margin-top: 20px;
+    display: flex;
+}
+.page_name img{
+    width: 50px;
+    height:40px;
+    margin-top: -18px;
+    margin-right: 0px;
+}
+#logo{
+    border-radius: 10px;
+}
+.multiple_div{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 20px;  
+    margin-left: 10%;
+}
+nav #product_1:hover{
+    font-size: 20px;
+}
+nav #team_1:hover{
+    font-size: 20px;
+}
+nav #resource_1:hover{
+    font-size: 20px;
+}
+nav #community_1:hover{
+    font-size: 20px;
+}
+nav #help_1:hover{
+    font-size: 20px;
+}
+nav #about_1:hover{
+    font-size: 20px;
+}
+.multiple_div #product_1{
+    text-decoration: none;
+    color: white;
+    font-family: inherit;
+    width: fit-content;
+}
+.multiple_div #team_1{
+    text-decoration: none;
+    color: white;
+    width: fit-content;
+}
+.multiple_div #resource_1{
+    text-decoration: none;
+    color: white;
+    width: fit-content;
+}
+.multiple_div #community_1{
+    text-decoration: none;
+    color: white;
+    width: fit-content;
+}
+.multiple_div #help_1{
+    text-decoration: none;
+    color: white;
+    width: fit-content;
+}
+.multiple_div #about_1{
+    text-decoration: none;
+    color: white;
+    width: fit-content;
+}
+.login{
+    margin-top: 20px;
+    width: fit-content;
+    margin-left: 60px;
+}
+.login #login_1{
+    text-decoration: none;
+    color: white;
+    margin-left: 50px;
+    width: fit-content;
+
+}
+.login #singup_1{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+    padding: 5px;
+   
+}
+.searchBar{
+    position: fixed;
+    width: 300vh;
+    height: 45px;
+    margin-top: 15px;
+    border-color: white ;
+    margin-left: -10px;
+    background: linear-gradient(to bottom, black 10%, white);
+}
+.searchBar input{
+    text-indent: 0;
+    margin-left: 68vh;
+    width: 76vh;
+    height: 3vh;
+    padding: 8px;
+    border: none;
+    margin-top: 0px;
+    display: flex;
+    outline: none;
+    border: none;
+    border-radius: 12px;
+
+}
+.searchBar button{
+    z-index: 1;
+    margin-left: 140vh;
+    position: relative; top: -26px;
+    background-color: transparent;
+    outline: none;
+    border: none;
+}
+.search{
+    width: 3vh;
+    height: 3vh;
+    margin-top: -3px;
+    margin-left: 8px;
+}
+/*main content of css*/
+.cssMaincontant{
+    display: flex;
+    margin-top: 45px;
+}
+.manuBar{
+    position: fixed;
+    top: 105px;
+    left: 0;
+    width: 40vh;
+    height: calc(100vh - 105px);
+    background: linear-gradient(to top,rgb(207, 204, 204) 50%, white);
+    padding-left: 2vh;
+    overflow-y: auto;
+}
+.cssDiv{
+    font-size: 20px;
+    margin-left: 40vh;
+    padding: 20px;
+    margin-top: 20px;
+}
+#example{
+    background-color: aquamarine;
+    width: 40vh;
+
+}
+h2{
+    font-family: "segoe UI",Arial, Helvetica, sans-serif;
+    font-weight: 380;
+    margin: 10px;
+}
+.Allexample{
+    background-color: rgb(207, 204, 204);
+}
+.example{
+    background-color: white;
+    padding-left: 5%;
+    width: 150vh;
+}
