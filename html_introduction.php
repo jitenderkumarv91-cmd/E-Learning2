@@ -51,7 +51,7 @@
         <h1>HTML Tutorial</h1>
             <a href="html_introduction.php">Html Introduction</a><br/>
             <a href="html_editors.php">html_editors</a><br/>
-            <a href="selector.html"></a><br/>
+            <a href="selector.php"></a><br/>
             <a href="how-to.html">CSS How-to-Add</a><br/>
             <a href="">s</a><br/>
             <a href="">s</a><br/>
