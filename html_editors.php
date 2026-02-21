@@ -115,21 +115,21 @@
         </span><br><span class="tagnamecolor" style="color:#905">
         <span class="tagcolor" style="color:#999">&lt;</span>/html<span class="tagcolor" style="color:#999">&gt;</span></span> </div>
     </div><br/>
-        <div style="margin-left:10%;">
+        <div style="margin-left:5%;">
             <img src="img_notepad.png" />
         </div>
         <h1>Step 3: Save the HTML Page</h1>
         Save the file on your computer. Select <b>File > Save as</b> in the Notepad menu.<br/><br/>
         Name the file <b>"index.htm"</b> set the encoding to <b>UTF-8</b> (which is the preferred encoding for HTML files).<br/>
         <br/>
-        <div style="margin-left:10%;">
+        <div style="margin-left:5%;">
             <img src="save_file.png">
         </div><br/>
         <b>Tip:</b>You can use either .htm or .html as file extension. There is no difference; it is up to you.
         <h1>Step 4: View the HTML Page in Your Browser</h1>
         Open the saved HTML file in your favorite browser (double click on the file, or right-click - and choose "Open with").<br/><br/>
         The result will look much like this:<br/><br/>
-        <div style="margin-left:10%;">
+        <div style="margin-left:5%;">
             <img src="img_index.png" alt="">
         </div>
     </div>
